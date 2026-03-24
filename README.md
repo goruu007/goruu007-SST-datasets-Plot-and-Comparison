@@ -112,6 +112,4 @@ The notebook produces:
 
 ---
 
-## 📄 License
 
-MIT License
